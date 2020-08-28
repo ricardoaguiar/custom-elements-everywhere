@@ -18,7 +18,7 @@
     "webpack": "4.44.1"
   },
   "dependencies": {
-    "@webcomponents/webcomponentsjs": "2.0.0",
+    "@webcomponents/webcomponentsjs": "2.4.4",
     "hybrids": "4.3.0"
   }
 }
